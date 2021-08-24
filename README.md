@@ -1,0 +1,1 @@
+# A-latent-threshold-model-to-dichotomize-a-continuous-predictor
